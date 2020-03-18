@@ -94,4 +94,4 @@ if __name__ == '__main__':
     I3 = Complex(2, 0)
     I1.obr()
     print(I1.obr() * I1)
-    print(2 / I1)
+
